@@ -39,6 +39,10 @@ FinanceGPT-Database-Q&A is an AI-powered tool designed to perform natural langua
 ---
 
 ## Technologies Used
+![image](https://github.com/user-attachments/assets/2fed7b39-f8cb-45bd-ab3d-5b4bff9831f9) ![image](https://github.com/user-attachments/assets/0c2e484a-6ebf-4c75-9313-ef8db4a65f21) ![image](https://github.com/user-attachments/assets/13ddc582-08f1-46bb-8fd0-39bf4c1fa2ef) ![image](https://github.com/user-attachments/assets/7d0dc970-7a45-4647-8b7f-8016c143f9f2) 
+
+
+
 
 - **Programming Language**: Python
 - **LLM Framework**: LangChain
